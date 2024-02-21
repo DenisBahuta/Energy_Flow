@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "energy_flow",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Dyvani_programisty/",
+    "build": "vite build --base=/Energy_Flow/",
     "preview": "vite preview"
   },
   "devDependencies": {
